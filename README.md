@@ -6,7 +6,7 @@ This is a POC to test:
 to insert some datas on remote [Postgresql](https://en.wikipedia.org/wiki/PostgreSQL) when data are
 inserted on local database.
 
-TODO: test the same think with [postgres_fdw](https://www.postgresql.org/docs/9.6/static/postgres-fdw.html)
+Same example with [postgres_fdw][postgres_fdw](https://www.postgresql.org/docs/9.6/static/postgres-fdw.html): [poc-postgresql-plsql-fdw-trigger](https://github.com/harobed/poc-postgresql-plsql-fdw-trigger)
 
 
 ```
